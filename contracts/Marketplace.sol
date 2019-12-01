@@ -33,7 +33,7 @@ contract Marketplace is Ownable {
 
     mapping (uint => bool) private auctionedAnimals; // AnimalId => True
     mapping (uint => bool) private forSaleAnimals; // AnimalId => True
-    mapping (uint => bool) private fightersAnimals; // AnimalId =§ True
+    mapping (uint => bool) private fightersAnimals; // AnimalId => True
 
     mapping (uint => address) public animalOwner; // AnimaldId => OwnerAddress
 
