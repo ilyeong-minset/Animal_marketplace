@@ -1,6 +1,6 @@
 # TD6_Monnaie_Numerique
 
-### [AnimalToken](https://github.com/nlecoufl/TD6_Monnaie_Numerique/blob/master/contracts/AnimalToken.sol) 
+### I - [AnimalToken](https://github.com/nlecoufl/TD6_Monnaie_Numerique/blob/master/contracts/AnimalToken.sol) 
 It is an ERC721 Token just with some additional functions.
 
 **Mint**
@@ -38,7 +38,7 @@ It is an ERC721 Token just with some additional functions.
         _burn(tokenId);
     }
     
-### [Marketplace](https://github.com/nlecoufl/TD6_Monnaie_Numerique/blob/master/contracts/Marketplace.sol)
+### II - [Marketplace](https://github.com/nlecoufl/TD6_Monnaie_Numerique/blob/master/contracts/Marketplace.sol)
 
 **Deposit/Withdraw Animal**
 Allow user to list his animal on the marketplace contract. Marketplace owns the contracts until animal is saled.
@@ -55,4 +55,7 @@ Allow user to breed two of his animals.
 **Fight**
 Allow two user to agree on a fight and a reward.
 
-### No problem to compile and migrate
+### III - No problem to compile and migrate
+![alt text](https://github.com/nlecoufl/TD6_Monnaie_Numerique/blob/master/Capture%20du%202019-12-01%2022-09-22.png)
+![alt text](https://github.com/nlecoufl/TD6_Monnaie_Numerique/blob/master/Capture%20du%202019-12-01%2022-09-48.png)
+
