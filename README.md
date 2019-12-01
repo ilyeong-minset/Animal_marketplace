@@ -38,7 +38,7 @@ It is an ERC721 Token just with some additional functions
         _burn(tokenId);
     }
     
-### Marketplace (see Marketplace.sol)
+### Marketplace (see contracts/Marketplace.sol)
 
 **Deposit/Withdraw Animal**
 Allow user to list his animal on the marketplace contract. Marketplace owns the contracts until animal is saled.
