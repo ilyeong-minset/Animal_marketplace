@@ -55,9 +55,9 @@ contract Marketplace is Ownable {
         delete animalOwner[_animalId];
         animal.transferFrom(address(this), msg.sender, _animalId);
     }
-
-    // SALE
+    
     // ----------------------------------------------------------------------------------------------------------------------------------------------------
+    // SALE
     // Create Sale of an animal
     function createSale(uint _animalId, uint _price) public {
         require(animalOwner[_animalId] == msg.sender, "not owner of this animal");
@@ -88,9 +88,9 @@ contract Marketplace is Ownable {
         delete forSaleAnimals[s.animalId];
         delete sales[s.animalId];
     }
-
-    // AUCTION
+    
     // ----------------------------------------------------------------------------------------------------------------------------------------------------
+    // AUCTION
     // Create Auction of an animal
     function createAuction(uint _animalId, uint initialPrice) public {
         require(!auctionedAnimals[_animalId], "already auctioned");
