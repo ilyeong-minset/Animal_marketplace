@@ -1,6 +1,6 @@
 # TD6_Monnaie_Numerique
 
-### AnimalToken 
+### [AnimalToken](https://github.com/nlecoufl/TD6_Monnaie_Numerique/blob/master/contracts/AnimalToken.sol) 
 It is an ERC721 Token just with some additional functions 
 
 **Mint**
@@ -38,7 +38,7 @@ It is an ERC721 Token just with some additional functions
         _burn(tokenId);
     }
     
-### Marketplace (see [Marketplace](https://github.com/nlecoufl/TD6_Monnaie_Numerique/blob/master/contracts/Marketplace.sol))
+### [Marketplace](https://github.com/nlecoufl/TD6_Monnaie_Numerique/blob/master/contracts/Marketplace.sol)
 
 **Deposit/Withdraw Animal**
 Allow user to list his animal on the marketplace contract. Marketplace owns the contracts until animal is saled.
