@@ -56,6 +56,6 @@ Allow user to breed two of his animals.
 Allow two user to agree on a fight and a reward.
 
 ### III - No problem to compile and migrate
-![alt text](https://github.com/nlecoufl/TD6_Monnaie_Numerique/blob/master/Capture%20du%202019-12-01%2022-09-22.png)
-![alt text](https://github.com/nlecoufl/TD6_Monnaie_Numerique/blob/master/Capture%20du%202019-12-01%2022-09-48.png)
+![alt text](https://github.com/nlecoufl/TD6_Monnaie_Numerique/tree/master/screens/screen_1.png)
+![alt text](https://github.com/nlecoufl/TD6_Monnaie_Numerique/tree/master/screens/screen_2.png)
 
