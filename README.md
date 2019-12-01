@@ -1,7 +1,7 @@
 # TD6_Monnaie_Numerique
 
 ### [AnimalToken](https://github.com/nlecoufl/TD6_Monnaie_Numerique/blob/master/contracts/AnimalToken.sol) 
-It is an ERC721 Token just with some additional functions 
+It is an ERC721 Token just with some additional functions.
 
 **Mint**
 
@@ -54,3 +54,5 @@ Allow user to breed two of his animals.
 
 **Fight**
 Allow two user to agree on a fight and a reward.
+
+### No problem to compile and migrate
