@@ -1,4 +1,4 @@
-# TD6_Monnaie_Numerique
+# Animal Marketplace
 
 ### I - [AnimalToken](https://github.com/nlecoufl/TD6_Monnaie_Numerique/blob/master/contracts/AnimalToken.sol) 
 It is an ERC721 Token just with some additional functions.
